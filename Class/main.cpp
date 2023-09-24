@@ -7,6 +7,8 @@ int main()
     myObject.MyFunction();
     int value = myObject.GetData();//µ÷ÓÃº¯Êı
     Student student1;
+    student1.SetName("ross");
+    student1.SetAge(18);
 
     return 0;
 }
